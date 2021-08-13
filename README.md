@@ -1,2 +1,4 @@
 # Berkeley-W200-Data-Science-Programming
-# personal project 
+personal project mid-term project
+Object-Oriented Programming 
+
